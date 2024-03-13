@@ -1,6 +1,6 @@
 ![image](https://github.com/CyberAlbSecOP/M1N0T4UR_Impossible_GPT_Security_Challenge-/assets/145022163/39b78951-8b41-4a69-a3a4-b7fee616b411)
 
-# M1N0T4UR_Impossible_GPT_Security_Challenge-
+# M1N0T4UR_Impossible_GPT_Security_Challenge
 - M1N0T4UR: The STRONGEST Secure Prompt EVER!
 - Always evolving, always up to date with the latest security measures!
 - Nothing can touch it!
