@@ -1,4 +1,4 @@
-![image](https://github.com/CyberAlbSecOP/M1N0T4UR_Impossible_GPT_Security_Challenge-/assets/145022163/39b78951-8b41-4a69-a3a4-b7fee616b411)
+![image](https://github.com/CyberAlbSecOP/M1N0T4UR_Impossible_GPT_Security_Challenge/assets/145022163/244ff618-184c-4c92-90a2-df359b48e352)
 
 # M1N0T4UR_Impossible_GPT_Security_Challenge
 Welcome to the M1N0T4UR Impossible Security GPT Challenge repository! 🚀
