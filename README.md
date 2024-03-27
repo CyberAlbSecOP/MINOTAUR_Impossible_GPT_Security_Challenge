@@ -10,7 +10,7 @@ Key Features:
 - Nothing can touch it!
 
 ## FlowGPT Assistant
-[>>>Direct Link - Click Here!<<<](https://flowgpt.com/p/m1n0t4ur-impossible-security-challenge)
+[>>>Direct Link - Click Here!<<<](https://flowgpt.com/p/minotaur-impossible-security-challenge)
 
 ### LLM Base
 - Base Model: ChatGPT 3.5 Turbo
